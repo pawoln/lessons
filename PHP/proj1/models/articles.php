@@ -1,17 +1,21 @@
-<?
-	function_all() {
+<?php
+	function articles_all(){
 		
 	}
-	function_get($id) {
+
+	function articles_get($id){
 		
 	}
-	function_new($title, $state, $content) {
+
+	function articles_new($title, $state, $content){
 		
 	}
-	function_edit($id, $title, $date, $content) {
+
+	function articles_edit($id, $title, $date, $content){
 		
 	}
-	function_delete($id) {
+
+	function articles_delete($id){
 		
 	}
 ?>
