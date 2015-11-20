@@ -1,3 +1,3 @@
-<?
-	echo("Article.php");
+<?php
+    echo("Article.php");
 ?>
