@@ -5,3 +5,7 @@ footer {
     margin-top: 50px;
     margin-bottom: 50px;
 }
+.admin-table{
+    width: 100%;
+    border: 1px solid black;
+}
