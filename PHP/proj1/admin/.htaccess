@@ -1,4 +1,4 @@
 AuthType Basic
 Authname "Admin Panel"
-AuthUserFile C:\xampp\htdocs\lessons.git\PHP\proj1\admin\.htpasswd
+AuthUserFile C:\xampp\htdocs\lessons\PHP\proj1\admin\.htpasswd
 Require valid-user
